@@ -1,10 +1,1 @@
-{
-  "tasks": [
-    {
-      "nao-feitas": "n"
-    },
-    {
-      "feitas": "s"
-    }
-  ]
-}
+{"tasks": [{"nao-feitas": [], "feitas": ["fazer o dever"]}]}
